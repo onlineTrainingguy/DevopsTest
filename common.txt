@@ -1,1 +1,2 @@
 f1 has updated common.txt file
+This line is added by f2
